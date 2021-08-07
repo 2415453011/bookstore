@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/pages/cart/cart.jsp" value="file://$PROJECT_DIR$/out/artifacts/bookstore" />
+        <entry key="file://$PROJECT_DIR$/web/pages/cart/checkout.jsp" value="file://$PROJECT_DIR$/out/artifacts/bookstore" />
+        <entry key="file://$PROJECT_DIR$/web/pages/client/index.jsp" value="file://$PROJECT_DIR$/out/artifacts/bookstore" />
+        <entry key="file://$PROJECT_DIR$/web/pages/common/head.jsp" value="file://$PROJECT_DIR$/out/artifacts/bookstore" />
+        <entry key="file://$PROJECT_DIR$/web/pages/order/order.jsp" value="file://$PROJECT_DIR$/out/artifacts/bookstore" />
+      </map>
+    </option>
+  </component>
+</project>
